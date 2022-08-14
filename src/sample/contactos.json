@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "nombre":"Maria Campos",
+        "numero": "43-984757472",
+        "email": "mariacampos@gmail.com"
+    },
+    
+    {
+        "id":1,
+        "nombre":"Pedro Guzman",
+        "numero": "43-984857421",
+        "email": "pedroguzmans@gmail.com"
+    }
+ 
+]
+

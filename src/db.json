@@ -1,0 +1,22 @@
+{
+    "contactos" : [
+      {
+        "identificación" : 1 ,
+        "nombre" : " John Doe " ,
+        "correo electrónico" : " john@doe.email " ,
+        "teléfono" : " 1111-1111 "
+      },
+      {
+        "identificación" : 2 ,
+        "nombre" : " Foo Bar " ,
+        "correo electrónico" : " john@doe.email " ,
+        "teléfono" : " 2222-2222 "
+      },
+      {
+        "identificación" : 3 ,
+        "nombre" : " Alicia y Bob " ,
+        "correo electrónico" : " john@doe.email " ,
+        "teléfono" : " 3333-3333 "
+      }
+    ]
+  }
